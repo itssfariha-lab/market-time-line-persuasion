@@ -17,7 +17,10 @@ Deconstructionism is a postmodern design approach that became influential during
 
 Deconstructionist designs often include overlapping text, fragmented images, unusual typography, and layouts that appear intentionally chaotic or unfinished.
 
-![Deconstructionism Design](<img width="422" height="532" alt="Screenshot 2026-09-27 at 8 45 32 PM" src="https://github.com/user-attachments/assets/992169a7-211f-465c-9989-b855107e04bb" />)
+### Image Description
+
+![Example of Deconstructivism](../images/DeconstructivismStyle.png)
+
 
 ## 4. Color Scheme
 
