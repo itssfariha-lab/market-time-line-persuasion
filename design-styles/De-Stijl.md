@@ -17,7 +17,10 @@ De Stijl was a Dutch modernist art and design movement founded in 1917. The move
 
 De Stijl designs commonly feature squares, rectangles, and straight black lines. The designs are usually divided into sections using bold lines and blocks of color.
 
-![De Stijl Design](<img width="396" height="556" alt="Screenshot 2026-09-27 at 8 21 41 PM" src="https://github.com/user-attachments/assets/fdf1464c-e902-4b09-a507-5ecffafc9c54" />)
+### Image Description
+
+![Example of DE SIJL](../images/DeStijlStyle.png)
+
 
 ## 4. Color Scheme
 
