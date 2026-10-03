@@ -17,7 +17,9 @@ Constructivism was a modernist art and design movement that began in Russia in t
 
 Constructivist designs often use geometric shapes, photographs, bold lettering, and diagonal layouts. Posters were especially important to the movement and were designed to quickly attract attention and communicate ideas.
 
-![Constructivism Design](<img width="514" height="501" alt="Screenshot 2026-09-27 at 8 25 38 PM" src="https://github.com/user-attachments/assets/822224f6-f345-46d4-a01d-dc8d93b5f809" />)
+### Image Description
+
+![Example of Constructivism](../images/ConsStyle.png)
 
 ## 4. Color Scheme
 
