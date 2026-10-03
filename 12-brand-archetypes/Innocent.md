@@ -29,6 +29,36 @@ These are suggested design choices, not fixed colors for the archetype.
 
 Coca-Cola is sometimes interpreted as an Innocent brand because much of its advertising presents simple enjoyment and shared happy moments.
 
+## Design Examples
+
+### Example 1 — Modernist
+
+![Innocent Constructivism design](../images/innocent-constructivism.png) 
+*Image generated with AI.*
+
+**Archetype:** Innocent  
+**Design Style:** Constructivism  
+**Persuasion Principle:** Liking  
+
+The Constructivism style uses bold geometric shapes, strong diagonal lines, limited colors, and dynamic compositions to create an energetic visual message. The Innocent archetype is shown through the focus on optimism, simplicity, and positive experiences, while liking is used by creating a friendly and approachable message that encourages the viewer to connect with the subject. The bold but simple design makes the message feel engaging while keeping the overall idea easy to understand.
+
+**Style Reference:** [Constructivism](../design-styles/Constructivism.md)
+
+### Example 2 — Postmodernist
+
+![Innocent Memphis Design design](../images/innocent-memphis.png)  
+*Image generated with AI.*
+
+**Archetype:** Innocent  
+**Design Style:** Memphis Design  
+**Persuasion Principle:** Unity  
+
+The Memphis Design style uses bright colors, playful geometric shapes, unusual patterns, and fun layouts to create a cheerful and energetic visual message. The Innocent archetype is shown through the focus on happiness, optimism, simplicity, and positive experiences, while unity is used by creating a sense of belonging and togetherness. The playful design makes the message feel welcoming and encourages the viewer to feel connected to others.
+
+**Style Reference:** [Memphis Design](../design-styles/Memphis-Design.md)
+
+
+
 ## 6. References
 
 Mark, Margaret, and Carol S. Pearson. *The Hero and the Outlaw: Building Extraordinary Brands Through the Power of Archetypes*. McGraw-Hill, 2001. ISBN 978-0-07-136415-7. This book presents the brand archetype framework. The Coca-Cola association is an illustrative interpretation.
