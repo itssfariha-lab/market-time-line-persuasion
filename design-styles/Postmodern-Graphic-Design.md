@@ -17,8 +17,10 @@ Postmodern Graphic Design developed as a reaction against the strict rules and s
 
 Postmodern Graphic Design often combines photographs, illustrations, patterns, shapes, and typography. Designs can appear busy or unconventional because different visual elements are intentionally mixed together.
 
-![Postmodern Graphic Design](<img width="374" height="552" alt="Screenshot 2026-09-27 at 8 50 09 PM" src="https://github.com/user-attachments/assets/1803dafb-204c-4b39-b7f2-62d42031057d" />
-)
+### Image Description
+
+![Example of Postmodernism](../images/PostmodernStyle.png)
+
 
 ## 4. Color Scheme
 
