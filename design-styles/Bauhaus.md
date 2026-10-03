@@ -17,8 +17,10 @@ Bauhaus is a modernist design movement that began with the Bauhaus school founde
 
 Bauhaus designs commonly use geometric shapes such as circles, squares, rectangles, and triangles. Posters, furniture, architecture, and typography from the movement often have simple layouts and very little unnecessary decoration.
 
-![Bauhaus Design](<img width="504" height="506" alt="Screenshot 2026-09-27 at 8 13 23 PM" src="https://github.com/user-attachments/assets/32416727-7546-4234-9d71-2b5a9582c01f" />
-)
+### Image Description
+
+![Example of Bahaus](../images/BAHAUS.png)
+
 
 ## 4. Color Scheme
 
