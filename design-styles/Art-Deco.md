@@ -17,7 +17,9 @@ Art Deco is a design movement that became popular during the 1920s and 1930s. It
 
 Art Deco designs often include geometric patterns, skyscrapers, sunbursts, fans, and symmetrical shapes. The style is commonly associated with the glamorous architecture and advertisements of the 1920s and 1930s.
 
-![Art Deco Design](<img width="508" height="465" alt="Screenshot 2026-09-27 at 8 36 01 PM" src="https://github.com/user-attachments/assets/bdf5587c-28c5-41f8-8bcc-50bd5846d016" />)
+### Image Description
+
+![Example of Art-Deco](../images/ArtDecoStyle.png)
 
 ## 4. Color Scheme
 
