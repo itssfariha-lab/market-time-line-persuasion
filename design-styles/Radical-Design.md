@@ -17,8 +17,10 @@ Radical Design was an experimental design movement that developed in Italy durin
 
 Radical Design often features unusual furniture, exaggerated shapes, bright patterns, and experimental interiors. Many designs were intentionally strange or impractical in order to challenge traditional expectations.
 
-![Radical Design](<img width="563" height="406" alt="Screenshot 2026-09-27 at 8 53 15 PM" src="https://github.com/user-attachments/assets/c89f33ad-f390-41b2-a632-c98ca5e30636" />
-)
+### Image Description
+
+![Example of Radical ](../images/RadicalStyle.png)
+
 
 ## 4. Color Scheme
 
