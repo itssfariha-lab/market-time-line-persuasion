@@ -17,7 +17,9 @@ Punk Design is a postmodern graphic design style that developed alongside the pu
 
 Punk Design often uses torn paper, photocopied photographs, handwritten text, newspaper clippings, and collage. Designs intentionally look rough and imperfect instead of professionally polished.
 
-![Punk Design](<img width="422" height="355" alt="Screenshot 2026-09-27 at 8 47 26 PM" src="https://github.com/user-attachments/assets/a35af4a6-25c5-42da-9c04-7b9766c990a9" />)
+### Image Description
+
+![Example of Punk Graphic](../images/PunkGraphicStyle.png)
 
 ## 4. Color Scheme
 Punk Design commonly uses black and white with strong contrasting colors such as red, pink, or yellow. High contrast helps create the aggressive and attention-grabbing appearance associated with punk culture.
