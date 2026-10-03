@@ -17,7 +17,10 @@ Swiss Style, also known as the International Typographic Style, is a modernist g
 
 Swiss Style designs often feature organized grids, large photographs, simple shapes, and clean typography. Posters usually have plenty of open space and carefully arranged text.
 
-![Swiss Style Design](<img width="508" height="458" alt="Screenshot 2026-09-27 at 8 27 42 PM" src="https://github.com/user-attachments/assets/daebf934-9f56-422e-8617-d6b695e1abfe" />)
+### Image Description
+
+![Example of Swiss Style](../images/SwissStyle.png)
+
 
 ## 4. Color Scheme
 
