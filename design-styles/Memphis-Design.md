@@ -17,7 +17,9 @@ Memphis Design is a postmodern design movement that began in Milan, Italy, in th
 
 Memphis Design often includes triangles, circles, squiggly lines, dots, and other geometric patterns. Furniture and graphics usually have an exaggerated, colorful, and playful appearance.
 
-![Memphis Design](<img width="508" height="352" alt="Screenshot 2026-09-27 at 8 39 25 PM" src="https://github.com/user-attachments/assets/affe52ab-4fe4-4218-8a87-177391dd9a50" />)
+### Image Description
+
+![Example of Memphis Design](../images/MemphisStyle.png)
 
 ## 4. Color Scheme
 
