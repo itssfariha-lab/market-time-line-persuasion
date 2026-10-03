@@ -17,7 +17,10 @@ Futurism was a modernist art and design movement that began in Italy in the earl
 
 Futurist designs often show movement through repeated shapes, diagonal lines, and overlapping forms. Common imagery includes machines, automobiles, cities, and other symbols of technology and speed.
 
-![Futurism Design](<img width="508" height="533" alt="Screenshot 2026-09-27 at 8 30 01 PM" src="https://github.com/user-attachments/assets/271aee71-ea58-4c22-8403-d9b887beaa92" />)
+### Image Description
+
+![Example of Futurism](../images/FuturismStyle.png)
+
 
 ## 4. Color Scheme
 
