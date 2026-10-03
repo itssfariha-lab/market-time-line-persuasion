@@ -17,7 +17,9 @@ New Wave Typography is a postmodern graphic design movement that became popular 
 
 New Wave Typography often uses text as a major visual element. Letters may appear tilted, stretched, layered, or placed in unexpected positions to make the design more expressive.
 
-![New Wave Typography](<img width="422" height="532" alt="Screenshot 2026-09-27 at 8 42 34 PM" src="https://github.com/user-attachments/assets/716576a0-ed42-4bf8-b7c7-422c29b84a17" />)
+### Image Description
+
+![Example of New Wave Typography](../images/NewWaveStyle.png)
 
 ## 4. Color Scheme
 
